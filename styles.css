@@ -2,4 +2,8 @@ body {
   background-color: blue;
   color: white;
 }
-  
+#button{
+  border:solid black 2px;
+  color:#000;
+  border-radius:5px;
+}

@@ -12,4 +12,4 @@ const sentences = [
 
 const randomSentence = sentences[Math.floor(Math.random() * sentences.length)];
 
-console.log(randomSentence);
+alert(randomSentence);
